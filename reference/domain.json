@@ -1,0 +1,5 @@
+{
+  "content_states": ["draft", "reviewing", "approved", "scheduled", "published", "superseded"],
+  "review_types": ["scientific", "language", "legal"],
+  "channels": ["gallery_label", "audio_guide", "online_catalog", "printed_catalog"]
+}
