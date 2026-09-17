@@ -1,5 +1,9 @@
 {
   "content_states": ["draft", "reviewing", "approved", "scheduled", "published", "superseded"],
   "review_types": ["scientific", "language", "legal"],
-  "channels": ["gallery_label", "audio_guide", "online_catalog", "printed_catalog"]
+  "channels": ["gallery_label", "audio_guide", "online_catalog", "printed_catalog"],
+  "fact_kinds": ["scientific_name", "distribution", "morphology", "ecology", "other"],
+  "review_decisions": ["approved", "changes_requested", "rejected"],
+  "expert_stances": ["supporting", "dissenting", "neutral"],
+  "clarification_kinds": ["emergency_correction", "retraction_notice", "editorial_notice"]
 }
